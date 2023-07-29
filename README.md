@@ -25,29 +25,3 @@
 
 
 
-
-
-<--
-### Hi there 👋
-
-### I'm Nimesha Madurangi from Sri Lanka.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NimeshaMadurangi)](https://github.com/NimeshaMadurangi/github-readme-stats)
-
-
-**NimeshaMadurangi/NimeshaMadurangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🎓 Undergraduate @ SLIIT.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
-
-
