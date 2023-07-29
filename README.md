@@ -19,16 +19,10 @@ I am a undergraduate at Sri Lanka Institute of Information Technology. I am read
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🌱 I’m currently learning Spring Boot.  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
