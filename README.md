@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Nimesha Madurangi from Sri Lanka.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NimeshaMadurangi)](https://github.com/NimeshaMadurangi/github-readme-stats)
+
 <!--
 **NimeshaMadurangi/NimeshaMadurangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
