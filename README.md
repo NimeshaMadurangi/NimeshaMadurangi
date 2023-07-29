@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimeshamadurangi&label=Profile%20views&color=0e75b6&style=flat" alt="nimeshamadurangi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimeshamadurangi" alt="nimeshamadurangi" /></a> </p>
-
 - 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **maduranginimesha8@gmail.com**
