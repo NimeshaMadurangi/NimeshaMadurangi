@@ -13,13 +13,6 @@
 
 ### Glad to see you here!  
 I am a undergraduate at Sri Lanka Institute of Information Technology. I am reading Bsc.(Hons) in Information Technology specialization in Information Technology.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-
 
 - 🌱 I’m currently learning Spring Boot.  
   
