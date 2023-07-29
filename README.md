@@ -18,11 +18,11 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimeshamadurangi&show_icons=true&locale=en&layout=compact" alt="nimeshamadurangi" /></p>
-<br>
-<br>
+</br>
+</br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nimeshamadurangi&show_icons=true&locale=en" alt="nimeshamadurangi" /></p>
-<br>
-<br>
+</br>
+</br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshamadurangi&" alt="nimeshamadurangi" /></p>
 
 
