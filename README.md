@@ -12,9 +12,8 @@
 
 
 ### Glad to see you here!  
-I am a undergraduate at Sri Lanka Institute of Information Technology. I am reading Bsc.(Hons) in Information Technology specialization in Information Technology.  
- 
-  
+I am Nimesha Madurangi, a third-year undergraduate student at the Sri Lanka Institute of Information Technology (SLIIT) pursuing a BSc. (Hons) in Information Technology.
+I am a hardworking and dedicated individual with a strong passion for technology and a desire to learn and grow in the field of information technology. I have a solid foundation in programming, software engineering, and web development, and am eager to apply my skills and knowledge to real-world projects.
 
 <br/>  
 
