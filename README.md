@@ -1,4 +1,5 @@
-## Hey 👋, I'm Nimesha Madurangi..!  
+## Hey 👋
+I'm Nimesha Madurangi.  
   
 
 <a href="https://github.com/NimeshaMadurangi" target="_blank">
