@@ -1,5 +1,5 @@
 ## Hey Glad to see you here!  👋
-<h3 align="center">I'm Nimesha Madurangi</h3>
+<h2 align="center">I'm Nimesha Madurangi</h2>
 <h3 align="center">Undergraduate</h3>
 <h3 align="center">Sri Lanka Institute of Information Technology (SLIIT)</h3>
 <h3 align="center">BSc. (Hons) in Information Technology</h3>
@@ -10,10 +10,6 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/nimesha-madurangi-812972217" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
-I am Nimesha Madurangi, a third-year undergraduate student at the Sri Lanka Institute of Information Technology (SLIIT) pursuing a BSc. (Hons) in Information Technology.
-I am a hardworking and dedicated individual with a strong passion for technology and a desire to learn and grow in the field of information technology. I have a solid foundation in programming, software engineering, and web development, and am eager to apply my skills and knowledge to real-world projects.
 
 <br/>  
 
