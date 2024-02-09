@@ -1,5 +1,5 @@
 ## Hey 👋
-<h3 align="center">I'm Nimesha Madurangi</h3>
+<h3 align="center">Nimesha Madurangi</h3>
 <h4 align="center">Undergraduate</h4>
 <h4 align="center">Sri Lanka Institute of Information Technology (SLIIT)</h4>
 <h4 align="center">BSc. (Hons) in Information Technology</h4>
