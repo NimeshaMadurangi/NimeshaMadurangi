@@ -1,7 +1,9 @@
 ## Hey 👋
-I'm Nimesha Madurangi.  
+I'm Nimesha Madurangi. 
+Undergraduate
+BSc. (Hons) in Information Technology
+Sri Lanka Institute of Information Technology (SLIIT)
   
-
 <a href="https://github.com/NimeshaMadurangi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
